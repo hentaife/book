@@ -19,7 +19,6 @@ app.context.render = render({
   }
 })
 
-
 // 静态文件服务器
 app.use(serve(__dirname + '/static/root'))
 
