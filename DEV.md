@@ -1,13 +1,10 @@
 ### 第一步
-安装 node
+安装 node 以及 npm，建议再安装 tnpm.
 
 ### 第二步
 ```
 npm install
-```
-或者
-```
-tnpm install
+npm install -g gulp
 ```
 
 ### 第三步
