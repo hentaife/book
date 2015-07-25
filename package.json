@@ -18,7 +18,8 @@
     "co-multipart": "0.2.0",
     "thenify": "3.1.0",
     "jquery": "2.1.3",
-    "marked": "0.3.3"
+    "marked": "0.3.3",
+    "lodash": "3.10.0"
   },
   "devDependencies": {
     "browserify": "10.2.4",
@@ -32,7 +33,8 @@
     "vinyl-source-stream": "1.1.0",
     "vinyl-buffer": "1.0.0",
     "event-stream": "3.3.1",
-    "gulp-less": "3.0.3"
+    "gulp-less": "3.0.3",
+    "persis": "0.2.0"
   },
   "browserify-shim": {
     "jquery": "global:jQuery"
